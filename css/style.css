@@ -1,0 +1,11 @@
+h1{
+	color:red;
+	font-size: 30px;
+}
+ol>li{
+	font-size: 30px;
+}
+ol>li>strong{
+	color:green;
+	font-size: 30px;
+}
